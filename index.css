@@ -1,0 +1,53 @@
+body{
+    font-family: "poppins";
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px;
+    align-items: center;
+}
+
+.navtest{
+    display: flex;
+    gap: 32px;
+}
+
+.navtest p{
+    font-weight: 600;
+}
+
+.navtest naactive{
+    color: #0000FF;
+}
+
+.slider{
+    margin: 0px 60px 60px 60px;
+}
+
+.slider img{
+    width: 100px;
+   height:auto;
+}
+
+.textbox{
+    background: rgb(206 23 31 / 40%);
+    padding: 16px;
+    border-radius: 8px;
+
+}
+
+.textbox h2, .textbox px{
+    margin: 0px;
+    margin-bottom: 16px;
+    margin-bottom: 20px;
+}
+
+.button{
+    text-decoration: none;
+    background: #2f2
+    color:#fff;
+    padding: 12px 24px;
+    border-radius: 8px;
+}
